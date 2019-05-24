@@ -29,7 +29,7 @@
 			<input name='emailComprador' type='hidden' value=''>
 			<input name='telephone' type='hidden' value=''>
 			<input name='prueba' type='hidden' value='0'>
-			<input name='url_respuesta' type='hidden' value='/succes.php'>
+			<input name='url_respuesta' type='hidden' value='http://jhordyabonia.azurewebsites.net/pays/succes.php'>
 			<input name='accountId' type='hidden' value='$accountId'>						
 		</div>
 		<p align='center'>
